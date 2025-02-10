@@ -52,7 +52,7 @@
 
 ### 🌐 **Connect with me**
 <p align="left">
-  <a href="https://linkedin.com/in/ratchanikorn" target="blank">
+  <a href="https://www.linkedin.com/in/ratchanikorn-prompradit-4b129b185/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ratchanikornprompradit@gmail.com" target="blank">
