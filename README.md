@@ -13,7 +13,7 @@
 - 🌱 I’m learning **Node.js, Express.js, MongoDB, Docker, AWS**
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/RatchanikornDev)
 - 📫 How to reach me **[ratchanikornprompradit@gmail.com](mailto:ratchanikornratchanikornprompradit@gmail.com)**  
-- 💬 Ask me about **Backend Development & APIs**  
+
 
 ---
 
@@ -38,7 +38,7 @@
 | Project Name  | Description | Technologies |
 |--------------|-------------|-------------|
 | [E-commerce API](https://ecommerce2025-web.vercel.app) | RESTful API for an e-commerce platform with JWT authentication | Node.js, Express, MongoDB |
-| [Todo App](https://github.com/RatchanikornDev/TodoApp) | A simple full-stack todo app with authentication | Next.js, Firebase, Prisma |
+
 
 ---
 
