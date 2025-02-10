@@ -37,8 +37,7 @@
 ### 🚀 **My Projects**
 | Project Name  | Description | Technologies |
 |--------------|-------------|-------------|
-| [E-commerce API](https://github.com/RatchanikornDev/Ecommerce) | RESTful API for an e-commerce platform with JWT authentication | Node.js, Express, MongoDB |
-| [Admin Dashboard](https://github.com/RatchanikornDev/Dashboard) | Admin dashboard built with React and TailwindCSS | React, Tailwind, Chart.js |
+| [E-commerce API](https://ecommerce2025-web.vercel.app) | RESTful API for an e-commerce platform with JWT authentication | Node.js, Express, MongoDB |
 | [Todo App](https://github.com/RatchanikornDev/TodoApp) | A simple full-stack todo app with authentication | Next.js, Firebase, Prisma |
 
 ---
