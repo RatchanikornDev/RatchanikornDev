@@ -49,10 +49,9 @@
 ---
 
 ### 🚀 **My Projects**
-| Project Name          | Description                                      | Technologies             |
-|-----------------------|--------------------------------------------------|--------------------------|
-| [E-commerce API](https://ecommerce2025-web.vercel.app) | RESTful API with JWT authentication for e-commerce | Node.js, Express, MongoDB |
-
+| Project Name          | Description                                      | Technologies             | GitHub Repository |
+|-----------------------|--------------------------------------------------|--------------------------|-------------------|
+| [E-commerce API](https://ecommerce2025-web.vercel.app) | RESTful API with JWT authentication for e-commerce | Node.js, Express, MongoDB | [GitHub Link](https://github.com/RatchanikornDev/Ecommerce) |
 ---
 
 ### 📊 **GitHub Stats**
