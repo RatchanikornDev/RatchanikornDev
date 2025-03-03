@@ -1,62 +1,83 @@
-      
 <h1 align="center">Hi 👋, I'm Ratchanikorn Prompradit</h1>
-<h3 align="center">A passionate Backend Developer from Thailand</h3>
+<h3 align="center">Passionate Backend Developer from Thailand</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RatchanikornDev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/RatchanikornDev?label=Followers&style=social" alt="followers" />
 </p>
 
 ---
 
 ### 👩‍💻 **About Me**
-- 🔭 I’m currently working on **Build Your Own Blogging API**
-- 🌱 I’m learning **Node.js, Express.js, MongoDB, Docker, AWS**
-- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/RatchanikornDev)
-- 📫 How to reach me **[ratchanikornprompradit@gmail.com](mailto:ratchanikornratchanikornprompradit@gmail.com)**  
-
+- 🔭 Currently building **Build E-commerce API**  
+- 🌱 Exploring **Node.js, Express.js, MongoDB, Docker, AWS**  
+- 👨‍💻 Check out my work at [GitHub](https://github.com/RatchanikornDev)  
+- 📫 Reach me at **[ratchanikornprompradit@gmail.com](mailto:ratchanikornprompradit@gmail.com)**  
+- 💡 *Turning ideas into scalable solutions, one line of code at a time.*
 
 ---
 
-### 🛠️ Languages & Tech Stack
+### 🛠️ **Languages & Tech Stack**
+
+#### Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/PGAdmin4-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML, CSS, JavaScript, TypeScript" />
+</p>
+
+#### Frameworks & Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react" alt="Node.js, Express.js, NestJS, React" />
+</p>
+
+#### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" alt="MongoDB, PostgreSQL" />
+</p>
+
+#### Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman" alt="VS Code, Git, GitHub, Docker, Postman" />
+</p>
+
+#### Libraries & Dependencies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=prisma,mongodb" alt="Prisma, Mongoose" />
+  <img src="https://jwt.io/img/logo-asset.svg" alt="JWT" width="40" height="40" />
+  <img src="https://lodash.com/assets/img/lodash.svg" alt="Lodash" width="40" height="40" />
 </p>
 
 ---
 
 ### 🚀 **My Projects**
-| Project Name  | Description | Technologies |
-|--------------|-------------|-------------|
-| [E-commerce API](https://ecommerce2025-web.vercel.app) | RESTful API for an e-commerce platform with JWT authentication | Node.js, Express, MongoDB |
-
+| Project Name          | Description                                      | Technologies             |
+|-----------------------|--------------------------------------------------|--------------------------|
+| [E-commerce API](https://ecommerce2025-web.vercel.app) | RESTful API with JWT authentication for e-commerce | Node.js, Express, MongoDB |
 
 ---
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=RatchanikornDev&show_icons=true&theme=radical" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=RatchanikornDev&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RatchanikornDev&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RatchanikornDev&theme=github-compact&hide_border=true" width="95%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatchanikornDev&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&hide=html,css" alt="Top Languages" width="47%" />
 </p>
 
 ---
 
-### 🌐 **Connect with me**
+### 🌐 **Connect with Me**
 <p align="left">
-  <a href="https://www.linkedin.com/in/ratchanikorn-prompradit-4b129b185/" target="blank">
+  <a href="https://www.linkedin.com/in/ratchanikorn-prompradit-4b129b185/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ratchanikornprompradit@gmail.com" target="blank">
+  <a href="mailto:ratchanikornprompradit@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
+---
+
+<p align="center">
+  <i>"Code is my canvas, and I’m here to build the future."</i>
+</p>
