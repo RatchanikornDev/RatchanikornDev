@@ -9,7 +9,7 @@
 ---
 
 ### 👩‍💻 **About Me**
-- 🔭 Currently building **Build E-commerce API**  
+- 🔭 Currently building **Build Weather API**  
 - 🌱 Exploring **Node.js, Express.js, MongoDB, Docker, AWS**  
 - 👨‍💻 Check out my work at [GitHub](https://github.com/RatchanikornDev)  
 - 📫 Reach me at **[ratchanikornprompradit@gmail.com](mailto:ratchanikornprompradit@gmail.com)**  
@@ -52,6 +52,7 @@
 | Project Name          | Description                                      | Technologies             | GitHub Repository |
 |-----------------------|--------------------------------------------------|--------------------------|-------------------|
 | [E-commerce API](https://ecommerce2025-web.vercel.app) | RESTful API with JWT authentication for e-commerce | Node.js, Express, MongoDB | [GitHub Link](https://github.com/RatchanikornDev/Ecommerce) |
+| [Weather app](https://weather-app-ecru-xi-39.vercel.app/) | A simple weather application that provides real-time weather updates using OpenWeather API. This app helps users check the current weather, temperature, humidity, and other essential weather details based on their location. | HTML, css, Javascript  | [GitHub Link](https://github.com/RatchanikornDev/Weather_app.git) |
 ---
 
 ### 📊 **GitHub Stats**
