@@ -9,7 +9,7 @@
 ---
 
 ### 👩‍💻 **About Me**
-- 🔭 Currently building **Build Weather API**  
+- 🔭 Currently building **Tailwind Astro**  
 - 🌱 Exploring **Node.js, Express.js, MongoDB, Docker, AWS**  
 - 👨‍💻 Check out my work at [GitHub](https://github.com/RatchanikornDev)  
 - 📫 Reach me at **[ratchanikornprompradit@gmail.com](mailto:ratchanikornprompradit@gmail.com)**  
@@ -24,9 +24,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML, CSS, JavaScript, TypeScript" />
 </p>
 
-#### Frameworks & Backend
+#### Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react" alt="Node.js, Express.js, NestJS, React" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nestjs,astro,tailwind" alt="React, Node.js, Express.js, NestJS, Astro, Tailwind CSS" />
 </p>
 
 #### Databases
@@ -49,10 +49,12 @@
 ---
 
 ### 🚀 **My Projects**
-| Project Name          | Description                                      | Technologies             | GitHub Repository |
-|-----------------------|--------------------------------------------------|--------------------------|-------------------|
+| Project Name               | Description                                      | Technologies             | GitHub Repository |
+|----------------------------|--------------------------------------------------|--------------------------|-------------------|
+| [Shopping Website Clone](https://your-shopping-website-link.com) | A clone of a popular e-commerce website, implementing basic shopping features like product listing, cart, and checkout system. | HTML, CSS, Tailwind ,Astro| [GitHub Link](https://github.com/RatchanikornDev/Shopping-website-clone) |
 | [E-commerce API](https://ecommerce2025-web.vercel.app) | RESTful API with JWT authentication for e-commerce | Node.js, Express, MongoDB | [GitHub Link](https://github.com/RatchanikornDev/Ecommerce) |
-| [Weather app](https://weather-app-ecru-xi-39.vercel.app/) | A simple weather application that provides real-time weather updates using OpenWeather API. This app helps users check the current weather, temperature, humidity, and other essential weather details based on their location. | HTML, css, Javascript  | [GitHub Link](https://github.com/RatchanikornDev/Weather_app.git) |
+| [Weather app](https://weather-app-ecru-xi-39.vercel.app/) | A simple weather application that provides real-time weather updates using OpenWeather API. This app helps users check the current weather, temperature, humidity, and other essential weather details based on their location. | HTML, CSS, JavaScript  | [GitHub Link](https://github.com/RatchanikornDev/Weather_app.git) |
+
 ---
 
 ### 📊 **GitHub Stats**
